@@ -65,7 +65,7 @@ Vocês vão até o torno para ver como ele é usado de verdade, antes de pensar 
 | Distância do operador até o ponto provável do monitor | 1,5m  |
 | Espaço livre ao lado do torno (largura × altura) | 21cm  |
 | Distância até a tomada mais próxima | 3,10m |
-| Distância até o ponto de rede mais próximo (se houver) | 3,69  |
+| Distância até o ponto de rede mais próximo (se houver) | 3,69m |
 
 As fotos vão para `docs/entrevista` no repositório, com nomes que digam o que mostram (`torno-frente.jpg`, `local-monitor.jpg`).
 
