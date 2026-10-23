@@ -61,11 +61,11 @@ Vocês vão até o torno para ver como ele é usado de verdade, antes de pensar 
 
 | Medida | Valor (cm) |
 | --- | --- |
-| Altura dos olhos do operador, em pé na posição de trabalho |  |
-| Distância do operador até o ponto provável do monitor |  |
-| Espaço livre ao lado do torno (largura × altura) |  |
-| Distância até a tomada mais próxima |  |
-| Distância até o ponto de rede mais próximo (se houver) |  |
+| Altura dos olhos do operador, em pé na posição de trabalho | 1,54m  |
+| Distância do operador até o ponto provável do monitor | 1,5m  |
+| Espaço livre ao lado do torno (largura × altura) | 21cm  |
+| Distância até a tomada mais próxima | 3,10m |
+| Distância até o ponto de rede mais próximo (se houver) | 3,69  |
 
 As fotos vão para `docs/entrevista` no repositório, com nomes que digam o que mostram (`torno-frente.jpg`, `local-monitor.jpg`).
 
