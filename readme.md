@@ -41,21 +41,6 @@ Fechem a síntese com uma frase: **"O aluno que opera o torno precisa \_\_\_\_\_
 | 2 |  |  |  |  |
 | 3 |  |  |  |  |
 
-| Item | Para quê | Temos? | Onde está ou preço + link |
-| --- | --- | --- | --- |
-| Raspberry Pi (3B+, 4 ou 5) | Computador que exibe o projeto |  |  |
-| Cartão microSD 32 GB | Sistema operacional |  |  |
-| Fonte oficial do modelo de Pi | Energia estável para o Pi |  |  |
-| Monitor com HDMI e furação VESA | Tela do projeto |  |  |
-| Cabo HDMI ou micro-HDMI → HDMI | Ligar o Pi ao monitor |  |  |
-| Case com ventilação para o Pi | Proteger e resfriar o Pi |  |  |
-| Suporte VESA (braço, parede ou pedestal) | Fixar o monitor |  |  |
-| Caixa de proteção com frente transparente | Proteger contra fluido de corte e cavaco |  |  |
-| Filtro de linha | Energia em tomada própria |  |  |
-| Acesso à rede (Wi-Fi ou cabo) | Atualizar o projeto exibido |  |  |
-| Canaleta e abraçadeiras | Organizar os cabos |  |  |
-| Botões grandes + jumpers, ou teclado numérico USB | Trocar página e dar zoom |  |  |
-| Teclado e mouse USB | Configuração inicial |  |  |
 
 **Itens que a ideia escolhida de vocês precisa a mais:**
 
@@ -67,16 +52,6 @@ Fechem a síntese com uma frase: **"O aluno que opera o torno precisa \_\_\_\_\_
 
 - RF01 — O sistema deve \_\_\_\_\_\_. (requisito funcional: o que o sistema faz)
 - RNF01 — O sistema deve \_\_\_\_\_\_. (requisito não funcional: em que condições ou com que qualidade)
-
-**Checklist da equipe de Segurança** (marquem só o que o instrutor confirmou):
-
-- [ ] O local escolhido não cobre a peça, o painel de comando nem o botão de emergência.
-- [ ] O monitor e o suporte não impedem abrir as portas e proteções do torno.
-- [ ] A fixação não usa a carcaça, as portas ou as proteções da máquina.
-- [ ] A energia vem de uma tomada própria, fora do painel elétrico do torno.
-- [ ] Os cabos podem passar longe de partes móveis e da área de circulação.
-- [ ] Tela e Raspberry Pi podem ficar protegidos de fluido de corte e cavaco.
-- [ ] A consulta ao projeto pode ser feita com a máquina parada ou com as portas fechadas.
 
 
 ## Equipes e Responsabilidades
